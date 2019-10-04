@@ -1,0 +1,27 @@
+{
+  "name": "demo-api-translator-nodejs",
+  "version": "1.0.0",
+  "description": "Demo responsável por ",
+  "main": "tradutor.js",
+  "scripts": {
+    "dev": "node tradutor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/demo-api-translator-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "azure",
+    "cognitive-services",
+    "translator-text"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/demo-api-translator-nodejs/issues"
+  },
+  "homepage": "https://github.com/glaucia86/demo-api-translator-nodejs#readme"
+}

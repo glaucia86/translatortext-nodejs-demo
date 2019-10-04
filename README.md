@@ -1,4 +1,4 @@
-# Demo: API Translator Text com Node.js
+# Demo - API Translator Text com Node.js
 
 <p align="center">
   <img src="https://i.postimg.cc/y817TvF3/translator-api.png"/>  
@@ -18,6 +18,9 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 ## Executando a Aplicação Localmente ❗️
 
+```bash
+>
+```
 
 ## Links & Recursos Importantes ⭐️
 

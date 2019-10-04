@@ -39,4 +39,8 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 - ✅ **[A.I School](https://aischool.microsoft.com/home?WT.mc_id=translatortextnodejs-github-gllemos)**
 
+## Tenho Dúvidas... O que Faço?! ❓
+
+Caso tenham dúvidas aos códigos desenvolvidos aqui, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/translatortext-nodejs-demo/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+
 **(documentação em desenvolvimento)**

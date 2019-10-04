@@ -1,6 +1,8 @@
 # Demo: API Translator Text com Node.js
 
-[![translator-api.png](https://i.postimg.cc/y817TvF3/translator-api.png)](https://postimg.cc/SJP0SL1m)
+<p align="center">
+  <img src="https://i.postimg.cc/y817TvF3/translator-api.png"/>  
+</p>
 
 Repositório responsável pela demo usando a API **[Translator Text](http://bit.ly/2odbshO)** com Node.js.
 

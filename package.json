@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/glaucia86/demo-api-translator-nodejs/issues"
   },
-  "homepage": "https://github.com/glaucia86/demo-api-translator-nodejs#readme"
+  "homepage": "https://github.com/glaucia86/demo-api-translator-nodejs#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "uuidv4": "^5.0.1"
+  }
 }

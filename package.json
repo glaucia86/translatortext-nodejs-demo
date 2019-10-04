@@ -2,9 +2,9 @@
   "name": "demo-api-translator-nodejs",
   "version": "1.0.0",
   "description": "Demo responsável por ",
-  "main": "src/tradutor.js",
+  "main": "src/tradutor-texto.js",
   "scripts": {
-    "dev": "node tradutor.js"
+    "dev": "node tradutor-texto.js"
   },
   "repository": {
     "type": "git",

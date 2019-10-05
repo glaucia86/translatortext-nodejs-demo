@@ -1,5 +1,4 @@
 /**
- * 
  * Arquivo: src/tradutor-texto.js
  * Descrição: arquivo responsável por traduzir textos usando o Translator Text API.
  * Data: 03/10/2019
@@ -43,7 +42,7 @@ function traduzirTexto() {
       'X-ClientTraceId': uuidv4().toString()
     },
     body: [{
-      'text': 'Olá Desenvolvedor!'
+      'text': 'Oi! Como você se chama?'
     }],
     json: true,
   }

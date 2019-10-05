@@ -18,8 +18,18 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 ## Executando a Aplicação Localmente ❗️
 
+1. Instalar as dependências locais executando o comando:
+
 ```bash
->
+> npm install
+```
+
+2. Depois que instalar, incluir a `key` e o `endpoint` criado no Portal Azure para a API do Translator Text.
+
+3. Depois de incluir a `key` e o `endpoint`, executar o comando dentro da pasta `src`:
+
+```bash
+> npm run dev
 ```
 
 ## Links & Recursos Importantes ⭐️

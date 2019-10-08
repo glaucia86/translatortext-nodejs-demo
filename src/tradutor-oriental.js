@@ -44,7 +44,7 @@ function traduzirTexto() {
       'X-ClientTraceId': uuidv4().toString()
     },
     body: [{
-      'text': '好晚上开发商！'
+      'text': '我今天不舒服。'
     }],
     json: true,
   }

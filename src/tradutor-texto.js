@@ -42,7 +42,7 @@ function traduzirTexto() {
       'X-ClientTraceId': uuidv4().toString()
     },
     body: [{
-      'text': 'Boa noite desenvolvedores!'
+      'text': 'Eu estou me sentindo doente hoje.'
     }],
     json: true,
   }

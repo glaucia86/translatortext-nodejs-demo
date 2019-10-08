@@ -31,10 +31,12 @@ function traduzirTexto() {
   let options = {
     method: 'POST',
     baseUrl: endpoint,
-    url: 'translate',
+    url: 'transliterate',
     qs: {
       'api-version': '3.0',
-      'to': ['en', 'es', 'fr', 'sv', 'zh-Hans']
+      'language': 'zh-Hans',
+      'fromScript': 'Hans',
+      'toScript': 'latn'
     },
     headers: {
       'Ocp-Apim-Subscription-Key': subscriptionKey,
@@ -42,7 +44,7 @@ function traduzirTexto() {
       'X-ClientTraceId': uuidv4().toString()
     },
     body: [{
-      'text': 'Boa noite desenvolvedores!'
+      'text': '好晚上开发商！'
     }],
     json: true,
   }

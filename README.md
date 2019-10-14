@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/y817TvF3/translator-api.png"/>  
 </p>
 
-Repositório responsável pela demo usando a API **[Translator Text](http://bit.ly/2odbshO)** com Node.js.
+Repositório responsável pela demo usando a API **[Translator Text](http://bit.ly/2odbshO)** com Node.js, baseado no artigo escrito por mim no dev.to **[AQUI](https://dev.to/azure/realizando-traducoes-em-tempo-real-com-translator-text-node-js-1oeb)**
 
 ## Recursos Utilizados 🚀
 

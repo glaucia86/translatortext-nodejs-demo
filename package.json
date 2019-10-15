@@ -4,7 +4,8 @@
   "description": "Demo responsável por ",
   "main": "tradutor-texto.js",
   "scripts": {
-    "dev": "node src/tradutor-texto.js"
+    "dev-tradutor": "node src/tradutor-texto.js",
+    "dev-oriental": "node src/tradutor-oriental.js"
   },
   "repository": {
     "type": "git",

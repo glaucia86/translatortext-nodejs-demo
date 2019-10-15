@@ -26,10 +26,16 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 2. Depois que instalar, incluir a `key` e o `endpoint` criado no Portal Azure para a API do Translator Text.
 
-3. Depois de incluir a `key` e o `endpoint`, executar o comando dentro da pasta `src`:
+3. Depois de incluir a `key` e o `endpoint`, executar o comando dentro da pasta `src` para realizar traduções nos idiomas: `inglês - espanhol - sueco - chinês`:
 
 ```bash
-> npm run dev
+> npm run dev-tradutor
+```
+
+4. E para realizar a tradução da forma falada do idioma `chinês`, executar o comando abaixo dentro da pasta `src`:
+
+```bash
+> npm run dev-oriental
 ```
 
 ## Links & Recursos Importantes ⭐️
